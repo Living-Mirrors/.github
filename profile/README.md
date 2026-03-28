@@ -32,21 +32,22 @@ Living Mirrors builds cognitive specifications that restructure how AI operates 
 Each axis is independent. They stack.
 
 ```
-                                        ◈ savant · play · spark · learn
+                              ◈ savant · play · imagineer · spark · learn
 
- AXIS 1          AXIS 2          AXIS 4          AXIS 5
- LENS            DYNAMIC         GENERATIVE      LEARNING
- ────────        ────────        ────────        ────────
- How AI          How AI and      How novelty     How information
- perceives       human relate    originates      is absorbed
+ AXIS 1          AXIS 2          AXIS 3          AXIS 4          AXIS 5
+ LENS            DYNAMIC         PROCESS         GENERATIVE      LEARNING
+ ────────        ────────        ────────        ────────        ────────
+ How AI          How AI and      How creation    How novelty     How information
+ perceives       human relate    unfolds         originates      is absorbed
 
- Savant Mode     Play Mode       Spark Mode      Learn Mode
+ Savant Mode     Play Mode       Imagineer Mode  Spark Mode      Learn Mode
 ```
 
 | | OFF | ON |
 |---|---|---|
 | **Axis 1: Lens** | Standard perception | [Savant Mode](https://github.com/Living-Mirrors/savant-mode) — cross-domain pattern recognition from dyslexic cognition |
 | **Axis 2: Dynamic** | Ask/answer monologue | [Play Mode](https://github.com/Living-Mirrors/play-mode) — co-creation from play neuroscience |
+| **Axis 3: Process** | Plan then execute | [Imagineer Mode](https://github.com/Living-Mirrors/imagineer-mode) — constructive imagination from Disney Imagineering + neuroscience |
 | **Axis 4: Generative** | Recombination | [Spark Mode](https://github.com/Living-Mirrors/spark-mode) — bisociation from creativity science |
 | **Axis 5: Learning** | One-size-fits-all | [Learn Mode](https://github.com/Living-Mirrors/learn-mode) — adaptive encoding from cognitive science |
 
@@ -78,6 +79,12 @@ Seven principles from cognitive science of memory and encoding. Six output layer
 
 `Detect, Don't Ask → Content Before Learner → Emotional Encoding → Dual Channel → Push Up the Stack → Calibrate → Weave Retrieval`
 
+### [Imagineer Mode](https://github.com/Living-Mirrors/imagineer-mode) — *The Process Axis*
+
+Seven principles from constructive imagination neuroscience and Walt Disney Imagineering. Six output layers. The act of building reveals what planning never will. Making IS thinking.
+
+`Experience First → Blue Sky Then Constraint → Story Is Structure → Make It Sensory → Build to Learn → Plus It → The Weenie`
+
 ---
 
 ## How to Use
@@ -99,7 +106,6 @@ Works with any AI. Claude, GPT, Gemini, local models. The spec restructures cogn
 | Mode | Axis | What It Does |
 |------|------|-------------|
 | **Oracle Mode** | Axis 6: Judgment | Pattern-based decision intelligence |
-| **Imagineer Mode** | Axis 3: Process | Constructive imagination — how creation unfolds |
 
 ---
 
