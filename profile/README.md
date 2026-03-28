@@ -101,16 +101,12 @@ Works with any AI. Claude, GPT, Gemini, local models. The spec restructures cogn
 
 ---
 
-## In Development
+## Coming Next
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-R%26D-yellow.svg" alt="R&D">
-</p>
-
-| Project | Type | Status | What It Is |
-|---------|------|--------|-----------|
-| [**Oracle Mode**](https://github.com/Living-Mirrors/oracle-mode) | Axis 6: Judgment | Research | Pattern-based decision intelligence. How AI weighs evidence and navigates uncertainty. |
-| [**Quest**](https://github.com/Living-Mirrors/quest) | Application | Development | Turn any task into a game. The first Living Mirrors app. Free tier + Mirror Companion (paid). |
+| Project | What It Is |
+|---------|-----------|
+| [**Oracle Mode**](https://livingmirrors.ai/oracle) | Axis 6: Judgment. Pattern-based decision intelligence. How AI weighs evidence and navigates uncertainty. |
+| [**Quest**](https://livingmirrors.ai/quest) | Turn any task into a game. The first Living Mirrors application. |
 
 ---
 
